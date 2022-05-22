@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @crspz
+- 👋 Hi, I’m @rajib
 - 👀 I’m interested in game theory and mechanism 
-- I’m currently learning game theory, blockchain 
-- How to reach me twitter @cr1spz
+- I’m currently learning web3, blockchain 
+- twitter @cr1spz
 
 <!---
 crspz/crspz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
